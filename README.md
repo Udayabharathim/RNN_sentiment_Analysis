@@ -84,6 +84,4 @@ Open `Model_Testing_and_web_application.ipynb` in Jupyter Notebook or Google Col
 
 ## UI PREVIEW
 
-<img width="1918" height="468" alt="image" src="https://github.com/user-attachments/assets/d6755e80-f4b3-4c6c-ac56-681b45acabe5" />
-
-<img width="1916" height="582" alt="Screenshot 2025-07-31 104656" src="https://github.com/user-attachments/assets/06248269-2a44-48db-9294-faf7af0f6e12" />
+<img width="1578" height="756" alt="image" src="https://github.com/user-attachments/assets/0c1d9a5f-2740-4d69-8665-cde3f41060c8" />
